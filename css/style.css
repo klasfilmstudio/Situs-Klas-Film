@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Anton|Poppins:300,400,500,600,700&display=swap");
 /* line 6, ../../01 cl html template/03_jun 2019/181_Fitness Trainer_html/sass/_extends.scss */
 .btn_1 {
-  background-image: linear-gradient(to right, #C64140 0%, #6C0000 50%, #7A0009 100%);
+  background-image: linear-gradient(to right, #C64140 0%, #6C0000 50%, #380303 100%);
 }
 
 /**************** extend css start ****************/
@@ -314,8 +314,8 @@ button:focus,
   content: "";
   left: 0px;
   width: 100%;
-  height: 8px;
-  background-color: #7a73cc;
+  height: 3px;
+  background-color: #d0303f;
   bottom: 0;
   z-index: -1;
 }
@@ -586,8 +586,8 @@ ul {
 /* line 59, ../../01 cl html template/03_jun 2019/181_Fitness Trainer_html/sass/_button.scss */
 .btn_2:hover {
   color: #fff !important;
-  background-color: #4438b7;
-  border: 1px solid #4438b7;
+  background-color: #9e0b0f;
+  border: 1px solid #9e0b0f;
 }
 
 @media (max-width: 991px) {
@@ -749,7 +749,7 @@ ul {
 
 /* line 19, ../../01 cl html template/03_jun 2019/181_Fitness Trainer_html/sass/_blog.scss */
 .blog_area a h2:hover {
-  color: #4438b7 !important;
+  color: #bd373c !important;
 }
 
 /* line 27, ../../01 cl html template/03_jun 2019/181_Fitness Trainer_html/sass/_blog.scss */
@@ -2924,8 +2924,8 @@ ul {
   content: "";
   left: 1px;
   width: 99%;
-  height: 8px;
-  background-color: #7a73cc;
+  height: 3px;
+  background-color: #bb090e;
   bottom: 5px;
   z-index: -1;
 }
@@ -2969,7 +2969,7 @@ ul {
 .about_part .about_text .about_text_iner {
   position: relative;
   padding-left: 30px;
-  border-left: 5px solid #4438b7;
+  border-left: 5px solid #9e0b0f;
   margin-top: 19px;
   margin-bottom: 46px;
 }
